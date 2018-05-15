@@ -66,7 +66,7 @@ function scroll(from, to, hash) {
 }
 
 //
-var images = ['https://i.ytimg.com/vi/Q2-0w0YrsfA/maxresdefault.jpg', 'img/sean-pollock-203658-unsplash.jpg','img/nastuh-abootalebi-284882-unsplash.jpg'];
+var images = ['img/maxresdefault.jpg', 'img/sean-pollock-203658-unsplash.jpg','img/nastuh-abootalebi-284882-unsplash.jpg'];
 var bgImage = document.getElementById('header');
 
 
